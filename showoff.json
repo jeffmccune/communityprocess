@@ -1,0 +1,15 @@
+{
+  "name": "Puppet Enterprise 3",
+  "description": "Internal training materials for Puppet Enterprise 3",
+  "sections": [
+
+    "slides/introduction.md",
+    "slides/overview.md",
+    "slides/objectives.md",
+    "slides/components.md",
+    "slides/platforms.md",
+    "slides/removed.md",
+    "slides/questions.md"
+
+  ]
+}
