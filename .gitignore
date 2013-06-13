@@ -4,3 +4,4 @@ viewstats.json
 */_preshow/*
 !*/_preshow/README
 Gemfile.lock
+.bundle/
