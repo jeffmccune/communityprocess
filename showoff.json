@@ -4,12 +4,33 @@
   "sections": [
 
     "slides/introduction.md",
-    "slides/overview.md",
+    "slides/summary.md",
     "slides/objectives.md",
+
+     /* high level overview of the training */
+    "slides/overview.md",
     "slides/components.md",
     "slides/platforms.md",
     "slides/removed.md",
-    "slides/questions.md"
+    "slides/browser_support.md",
+    "slides/speed.md",
+    "slides/overview_auto_data_bindings.md",
+    "slides/overview_parameterized_classes.md",
+    "slides/overview_external_facts.md",
+    "slides/overview_mcollective.md",
+    "slides/questions_overview.md",
 
+    /* technical portion of the training */
+    "slides/technical.md",
+
+
+
+
+
+
+
+
+
+    "slides/questions.md"
   ]
 }
