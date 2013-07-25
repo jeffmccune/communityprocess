@@ -19,7 +19,13 @@
     "slides/tools_overview.md",
     "slides/tools_why.md",
     "slides/tools_one_source.md",
+    "slides/gepetto_bot.md",
     "slides/what_it_looks_like.md",
+    "slides/columns.md",
+    "slides/how_it_works.md",
+    "slides/how_it_works_2.md",
+    "slides/why_delayed_job.md",
+    "slides/why_delayed_job_2.md",
     /* Wrap Up */
     "slides/review.md",
     "slides/questions.md"
