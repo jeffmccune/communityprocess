@@ -9,5 +9,6 @@ The worker process runs only when there's work to be done.
 
     bundle exec rake jobs:worksilent
 
-<img align=center width="70%" src="image/_images/heroku_dynos.png">
+Workless automatically adjusts the worker dyno:
 
+<img align=center width="70%" src="image/_images/heroku_dynos.png">

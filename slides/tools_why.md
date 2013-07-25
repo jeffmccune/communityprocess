@@ -4,7 +4,7 @@
 Too many sources of information are tedious and error prone to review.
 
  * Issue Tracker (Should I work on this *now*?)
- * Jenkins and Travis (Does this patch break stuff?(
+ * Jenkins and Travis (Does this patch break stuff?)
  * Github (What are people saying about this patch?)
  * CLA (Has the contributor signed the license agreement?)
  * Trello (What should we be working on?)

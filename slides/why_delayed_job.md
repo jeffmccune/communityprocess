@@ -7,6 +7,7 @@ Heroku provides:
    * 750 hours of process time for free
    * 31 x 24 = 744 hours for the web process
    * 6 "extra" hours for free
+   * Automatic retries with back-off
 
 The workless gem allows us to only run DJ worker processes when there's
 actually work to be done.
