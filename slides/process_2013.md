@@ -1,18 +1,17 @@
 <!SLIDE>
 # 2013 Process
 
-Community Team responsibilities:
+## Community Team
 
  * Community Pull Requests
+ * Goal: 2 PM next business day response
+ * One type of work, not two
+ * Reduced context switching
 
-Platform Team responsibilities:
+## Platform Team
 
  * Bug Fixes
  * New Features
  * Security Incidents
+ * Reduced context switching
 
-One type of work:
-
- * **Unplanned** - Pull Requests and Security
-
-Pull requests are consistently prioritized.

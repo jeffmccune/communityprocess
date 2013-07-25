@@ -1,16 +1,16 @@
 <!SLIDE>
 # 2012 Process
 
-Platform Team responsibilities:
+## Platform Team
 
  * Bug Fixes
  * New Features
  * Security Incidents
- * All Pull Requests
+ * **Community Pull Requests**
 
-Two types of work:
+## Two types of work
 
- * **Planned** - Bugs and Features
+ * Planned - Bugs and Features
  * **Unplanned** - Pull Requests and Security
 
-Pull requests always came last in the priority list.
+Pull requests often came last in the priority list

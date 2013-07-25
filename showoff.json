@@ -9,9 +9,16 @@
     /* Process */
     "slides/process_2012.md",
     "slides/process_2012_outcome.md",
+    "slides/process_2012_graph.md",
     "slides/process_2013.md",
     "slides/process_2013_outcome.md",
+    "slides/process_2013_graph.md",
+    "slides/process_conclusion.md",
     /* Tools */
+    "slides/segway.md",
+    "slides/tools_overview.md",
+    "slides/tools_why.md",
+    /* Wrap Up */
     "slides/review.md",
     "slides/questions.md"
   ]

@@ -1,7 +1,7 @@
 <!SLIDE center>
-# Questions?
+# Thank You!  Questions?
 
-![PuppetLabs](../_images/PuppetLogo.png)
+<img align=center width="50%" src="image/_images/PuppetLogo.png">
 
 ### Jeff McCune
 ### 0xEFF

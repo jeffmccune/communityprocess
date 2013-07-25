@@ -4,6 +4,6 @@
 ## Twitter: @0xEFF
 ## Email: jeff@puppetlabs.com
 
-![PuppetLabs](../_images/PuppetLogo.png)
+<img align=center width="50%" src="image/_images/PuppetLogo.png">
 
 ### **http://puppetlabs.com**
