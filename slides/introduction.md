@@ -1,7 +1,9 @@
 <!SLIDE center>
-# Puppet Enterprise 3.0
-## What you need to know
+# Automating Community Contributions
+## Jeff McCune
+## Twitter: @0xEFF
+## Email: jeff@puppetlabs.com
 
 ![PuppetLabs](../_images/PuppetLogo.png)
 
-### **Internal Training**
+### **http://puppetlabs.com**

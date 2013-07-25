@@ -1,7 +1,8 @@
 <!SLIDE center>
-# Puppet Enterprise 3.0
-## What you need to know
+# Questions?
 
 ![PuppetLabs](../_images/PuppetLogo.png)
 
-### **Questions?**
+### Jeff McCune
+### 0xEFF
+### jeff@puppetlabs.com
