@@ -6,6 +6,12 @@
     "slides/introduction.md",
     "slides/overview.md",
     "slides/key_message.md",
+    /* Process */
+    "slides/process_2012.md",
+    "slides/process_2012_outcome.md",
+    "slides/process_2013.md",
+    "slides/process_2013_outcome.md",
+    /* Tools */
     "slides/review.md",
     "slides/questions.md"
   ]
