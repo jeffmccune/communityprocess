@@ -1,13 +1,14 @@
-Puppet Enterprise 3 Internal Training
+Puppet Community Process & Automated Tools
 ===
 
-Training material for the Puppet Enterprise 3 internal training
+This is the slide deck for my Community Process & Automated Tools presentation.
+This talk was given at OSCON 2013 and PuppetConf 2013.
 
 Getting Started
 ---
 
-    git clone git@github.com:puppetlabs/puppet-enterprise-3-internal-training.git
-    cd puppet-enterprise-3-internal-training
+    git clone git@github.com:jeffmccune/communityprocess.git
+    cd communityprocess
     bundle install --path .bundle/gems
     bundle exec showoff serve
 
